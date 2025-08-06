@@ -87,41 +87,63 @@ const iconsList = [
   },
 ];
 
+// Updated slides with GitHub and demo links
 const slides = [
   {
     id: 1,
     title: "Sofi",
     img: "/images/p1.png",
+    description: "Modern e-commerce platform with sleek design and seamless user experience",
+    github: "https://github.com/Hamda-Saeed/Portfolio",
+    demo: "https://sofi-demo.vercel.app",
   },
   {
     id: 2,
     title: "Jasmina",
     img: "/images/p2.png",
+    description: "Creative portfolio website showcasing artistic works and photography",
+    github: "https://github.com/Hamda-Saeed/Portfolio",
+    demo: "https://jasmina-demo.vercel.app",
   },
   {
     id: 3,
     title: "d.tampe",
     img: "/images/p3.png",
+    description: "Professional business website with modern design and interactive features",
+    github: "https://github.com/Hamda-Saeed/Portfolio",
+    demo: "https://dtampe-demo.vercel.app",
   },
   {
     id: 4,
     title: "Blimp.gr",
     img: "/images/p4.png",
+    description: "Dynamic web application with real-time data visualization and analytics",
+    github: "https://github.com/Hamda-Saeed/Portfolio",
+    demo: "https://blimp-demo.vercel.app",
   },
   {
     id: 5,
     title: "Hawk Style Design",
     img: "/images/p5.png",
+    description: "Fashion brand website with stunning visuals and smooth animations",
+    github: "https://github.com/Hamda-Saeed/Portfolio",
+    demo: "https://hawkstyle-demo.vercel.app",
   },
   {
     id: 6,
     title: "Lewis",
     img: "/images/p6.png",
+    description: "Personal branding website with interactive elements and modern aesthetics",
+    github: "https://github.com/Hamda-Saeed/Portfolio",
+    demo: "https://lewis-demo.vercel.app",
   },
   {
     id: 7,
-    title: "Sofi",
+    title: "Sofi Pro",
     img: "/images/p1.png",
+    description: "Enhanced version of Sofi with advanced features and improved performance",
+    github: "https://github.com/Hamda-Saeed/Portfolio",
+    demo: "https://sofi-pro-demo.vercel.app",
   },
 ];
 
